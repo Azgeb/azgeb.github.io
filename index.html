@@ -1,6 +1,8 @@
+<!--
 <!doctype html>
 
-<html lang="en">
+<html
+ lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -25,5 +27,76 @@
 
 </body>
 <script src="./src/scripts/index.js"></script>
+
+</html
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<title>Blog, kind of</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+
+<link rel="stylesheet" href="./src/css/styles.css">
+<link rel="stylesheet" href="./src/css/navbar.css">
+
+
+
+<body>
+
+    <!-- Navbar -->
+    <div class="top">
+        <div class="bar red card left-align large">
+            <a class="bar-item button hide-medium hide-large right padding-large hover-white large red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i
+                    class="fa fa-bars"></i></a>
+            <a href="#" class="bar-item button padding-large white" onclick="setMarkdown('home.md')">Home</a>
+            <a href="#" class="bar-item button hide-small padding-large hover-white" onclick="setMarkdown('php.md')">PHP</a>
+            <a href="#" class="bar-item button hide-small padding-large hover-white">Link 2</a>
+            <a href="#" class="bar-item button hide-small padding-large hover-white">Link 3</a>
+            <a href="#" class="bar-item button hide-small padding-large hover-white">Link 4</a>
+        </div>
+
+        <!-- Navbar on small screens -->
+        <div id="navDemo" class="bar-block white hide hide-large hide-medium large">
+            <a href="#" class="bar-item button padding-large" onclick="setMarkdown('php.md')">PHP</a>
+            <a href="#" class="bar-item button padding-large">Link 2</a>
+            <a href="#" class="bar-item button padding-large">Link 3</a>
+            <a href="#" class="bar-item button padding-large">Link 4</a>
+        </div>
+    </div>
+
+    <!-- Content -->
+
+    <div style="display: block;margin-left: auto;margin-right: auto;max-width: 90vw;">
+        <zero-md id="content" src="./src/assets/home.md"></zero-md>
+    </div>
+
+    <!-- Footer -->
+    <footer class="container padding-64 center opacity">
+        <div class="xlarge padding-32">
+            <i class="fa fa-github"></i>
+        </div>
+    </footer>
+
+    <script>
+        // Used to toggle the menu on small screens when clicking on the menu button
+        function myFunction() {
+            var x = document.getElementById("navDemo");
+            if (x.className.indexOf("show") == -1) {
+                x.className += " show";
+            } else {
+                x.className = x.className.replace(" show", "");
+            }
+        }
+    </script>
+
+    <script src="./src/scripts/index.js"></script>
+
+</body>
 
 </html>
