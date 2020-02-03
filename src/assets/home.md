@@ -1,5 +1,6 @@
 
-## Regis pedes erat abest quater
+## Blindtext for Navbar Margin (will be removed later)
+## Hello and Welcome to my Dev Diary
 
 Lorem markdownum regna spatii iussa poscit fecit, Mnemosynen meo. Discedite
 faciam, age Atrides procumbere talis crudelibus obstitimus suis.
