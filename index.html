@@ -50,24 +50,11 @@
 <body>
 
     <!-- Navbar -->
-    <div class="top">
-        <div class="bar red card left-align large">
-            <a class="bar-item button hide-medium hide-large right padding-large hover-white large red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i
-                    class="fa fa-bars"></i></a>
-            <a href="#" class="bar-item button padding-large white" onclick="setMarkdown('home.md')">Home</a>
-            <a href="#" class="bar-item button hide-small padding-large hover-white" onclick="setMarkdown('php.md')">PHP</a>
-            <a href="#" class="bar-item button hide-small padding-large hover-white">Link 2</a>
-            <a href="#" class="bar-item button hide-small padding-large hover-white">Link 3</a>
-            <a href="#" class="bar-item button hide-small padding-large hover-white">Link 4</a>
-        </div>
-
-        <!-- Navbar on small screens -->
-        <div id="navDemo" class="bar-block white hide hide-large hide-medium large">
-            <a href="#" class="bar-item button padding-large" onclick="setMarkdown('php.md')">PHP</a>
-            <a href="#" class="bar-item button padding-large">Link 2</a>
-            <a href="#" class="bar-item button padding-large">Link 3</a>
-            <a href="#" class="bar-item button padding-large">Link 4</a>
-        </div>
+    <div id="navbar">
+        <ul>
+            <li> <a href="#" onclick="setMarkdown('home.md')">Home</a></li>
+            <li> <a href="#" onclick="setMarkdown('php.md')">PHP</a></li>
+        </ul>
     </div>
 
     <!-- Content -->
