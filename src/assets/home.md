@@ -1,6 +1,4 @@
-
-## Blindtext for Navbar Margin (will be removed later)
-## Hello and Welcome to my Dev Diary
+## Hello and Welcome to my Dev Diary (Kind of)
 
 Lorem markdownum regna spatii iussa poscit fecit, Mnemosynen meo. Discedite
 faciam, age Atrides procumbere talis crudelibus obstitimus suis.
