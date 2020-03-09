@@ -1,23 +1,35 @@
-#navbar ul {
-    margin: 0;
-    padding: 5px;
-    list-style-type: none;
-    text-align: center;
-    background-color: #000000;
-}
-
-#navbar ul li {
-    display: inline;
-}
-
-#navbar ul li a {
+.navbar a {
     text-decoration: none;
     padding: .2em 1em;
     color: #fff;
     background-color: #000;
+    text-align: center;
+    font-size: 1.5rem;
 }
 
-#navbar ul li a:hover {
+.right {
+    text-align: right !important;
+}
+
+.left {
+    text-align: left !important;
+}
+
+.navbar a:hover {
     color: #000;
-    background-color: #fff;
+    background-color: #959595;
+}
+
+@import 'https://fonts.googleapis.com/css?family=Montserrat|Open+Sans';
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    height: 2.5rem;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 5px;
+    list-style-type: none;
+    background-color: #000000;
+    width: -webkit-fill-available;
 }
