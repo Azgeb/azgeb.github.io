@@ -7,12 +7,8 @@
     font-size: 1.5rem;
 }
 
-.right {
-    text-align: right !important;
-}
-
-.left {
-    text-align: left !important;
+.navbar-item {
+   height: fit-content;
 }
 
 .navbar a:hover {
