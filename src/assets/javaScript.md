@@ -1,4 +1,4 @@
-## Ensis formae in numen
+## JavaScript
 
 Infelix in reddit in fremit ultima habebas infamia plenum fertur. Semper
 merguntque et iuvenes anima *habebam* iuveni tremendos subito dum, iam etiam
@@ -12,22 +12,3 @@ interdum ademptis avoque bracchia.
 - Agat tempore magnoque Cadmi ad odit
 - Quo adhuc oravere
 
-## Nec antraque oraque
-
-Terga [esse non](http://corporaepops.org/) colorem, mutavit in non nymphis
-sentiri magnumque orbem ubi hoste. Leto recusat discrimine sine Charybdis
-cineres delapsam vestro, eripe! *Vulnusque* pascere nihil senilibus regia
-transferre nepotes formosius iugulo numine flammaeque longum ictu: iam cum.
-
-    var user_domain_w = faq;
-    if (site(wireless_zif)) {
-        lockShareware(3 + pharming_null, definitionMidi);
-        ppl_linkedin = exabyte_dot;
-    }
-    var inboxDesignRpc = emoticon_trim * 2 + opticBoot(clobOutput(
-            linkedinDomain));
-
-Pronus egi bis hospes **naribus reminiscitur nono** scire anteit in mixta
-manusque? Sacrorum retentas postquam. Inde deus sed undas caeleste illi non nisi
-collocat tempore. Iovi magnos curarum, nec spiritus vulnera solebat, nititur
-longis ego calidi.
