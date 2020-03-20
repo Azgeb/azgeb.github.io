@@ -7,7 +7,4 @@ interdum ademptis avoque bracchia.
 
 - Undis salutifera tandem movebere
 - Cum mentis
-- Arbor levi mea Haemonia eurus dominis et
-- Proles et vos duxere Aeetias balistave dedit
-- Agat tempore magnoque Cadmi ad odit
-- Quo adhuc oravere
+- Arbor levi mea Haemonia eurus dominis ett
