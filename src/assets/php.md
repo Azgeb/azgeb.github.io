@@ -7,4 +7,3 @@ interdum ademptis avoque bracchia.
 
 - Undis salutifera tandem movebere
 - Cum mentis
-- Arbor levi mea Haemonia eurus dominis ett
